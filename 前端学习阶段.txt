@@ -1,0 +1,5 @@
+阶段1、html、css、js（dom重点） （github）
+阶段2、node基础、webpack基础
+阶段3、vue、react、angular
+阶段3.5、互联网、浏览器、seo、es6+
+阶段4、深度、广度

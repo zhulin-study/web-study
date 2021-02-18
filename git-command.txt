@@ -44,9 +44,6 @@
 	
 19. git branch -d branch-name
 
-20. 1
-
-
-16. 1
+20. 
 							   
    

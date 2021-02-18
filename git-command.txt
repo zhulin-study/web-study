@@ -41,9 +41,33 @@
 17. git switch -c branch-name   ====  git checkout -b branch-name
 
 18. git merge branch-name
+	git merge --no-ff -m "merge log" branch-name
 	
 19. git branch -d branch-name
+	git branch -D branch-name 强制删除
 
-20. 
+20. git log --graph --pretty=oneline --abbrev-commit
+
+21. git stash
+	git stash list
+	git stash pop   ====    git stash apply
+							git stash drop
+
+22. git stash apply stash@{0}
+
+23. git cherry-pick commit_id
+
+24. git push origin branch-name
+	git pull
+	git branch --set-upstream-to branch-name origin/branch-name
+	
+25. git remote -v
+
+26. git checkout -b branch-name origin/branch-name
+	
+
+	
+	
+
 							   
    

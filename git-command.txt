@@ -32,9 +32,22 @@
 	
 13. git clone git@github.com:zhulin-study/project.git
 
-14. git checkout -b branch-name  ====   git branch branch-name
-										git checkout branch-name
+14. git branch
 
-15. git branch
+15. git branch branch-name
+
+16.	git switch branch-name  ==== git checkout branch-name
+
+17. git switch -c branch-name   ====  git checkout -b branch-name
+
+18. git merge branch-name
+	
+19. git branch -d branch-name
+
+20. 1
+
+
+
+
 							   
    

@@ -64,6 +64,26 @@
 25. git remote -v
 
 26. git checkout -b branch-name origin/branch-name
+
+27. git rebase
+
+28. git tag tag-name
+
+	git tag tag-name commit_id
+	
+	git tag -a tag-name -m "message"
+	
+	git tag
+	
+	git show tag-name
+	
+29. git push origin tag-name
+
+	git push origin --tags
+	
+	git tag -d tag-name
+	
+	git push origin :refs/tags/tag-name
 	
 
 	
